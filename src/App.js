@@ -1,7 +1,7 @@
-import Events from './components/Events'
+import Login from './components/Login'
 
 import './App.css'
 
-const App = () => <Events />
+const App = () => <Login />
 
 export default App

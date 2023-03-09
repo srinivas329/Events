@@ -1,0 +1,102 @@
+.login-bg {
+  background-image: url('https://res.cloudinary.com/dxvsvzsai/image/upload/v1678355653/bg_poonur.jpg');
+  background-size: cover;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+}
+.master-img {
+  height: 160px;
+  width: 160px;
+  border-radius: 80px;
+}
+.master-text {
+  font-family: bree serif;
+  font-size: 34px;
+}
+.image-text {
+  text-align: center;
+  background-color: transparent;
+  cursor: pointer;
+  border: none;
+}
+.icons-container {
+  width: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+.login-text {
+  color: white;
+  margin-bottom: 150px;
+  font-size: 30px;
+  font-family: bree serif;
+}
+.master-bg {
+  background-image: url('https://res.cloudinary.com/dxvsvzsai/image/upload/v1678356423/master_bg.jpg_nlrswk.jpg');
+  background-size: cover;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+}
+.card-bg {
+  background-color: #e6f2ff;
+  background-size: cover;
+  min-width: 28%;
+  min-height: 60%;
+  padding: 50px;
+  border-radius: 15px;
+}
+.input {
+  width: 300px;
+  height: 30px;
+  border: 0.5px solid gray;
+  border-radius: 5px;
+  outline: none;
+  margin-top: 5px;
+}
+.ans-button {
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  width: 100px;
+  margin-top: 15px;
+  height: 30px;
+  background-color: #66ff66;
+}
+.add-button {
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  width: 100px;
+  margin-top: 15px;
+  color: white;
+  height: 30px;
+  background-color: #3333ff;
+}
+.logout-button {
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+
+  width: 100px;
+  margin-top: 45px;
+  margin-left: 250px;
+  color: white;
+  height: 30px;
+  background-color: #3333ff;
+}
+.answer {
+  color: #33cc33;
+  font-weight: 600;
+  font-size: 20px;
+  margin-left: 10px;
+  margin-top: 10px;
+}
+.ul-list {
+  padding: 0px;
+}
