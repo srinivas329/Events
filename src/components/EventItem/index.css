@@ -1,0 +1,25 @@
+/* Write your CSS here */
+.list-item {
+  list-style-type: none;
+  width: 25%;
+  margin: 20px;
+}
+.image {
+  width: 100%;
+}
+.name-text {
+  margin: 0px;
+  color: #ffffff;
+  font-family: roboto;
+  font-size: 16px;
+}
+.location-text {
+  margin: 0px;
+  color: #f8fafc;
+  font-family: roboto;
+  font-size: 12px;
+}
+.card-btn {
+  border-width: 0px;
+  background-color: transparent;
+}
